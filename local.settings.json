@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "sbsuksdv02webapisbns_SERVICEBUS": "Endpoint=sb://sbs-uks-dv02-webapi-sbns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=7n+/k+tvrA1TYYC61R1rBKHThJ8yrQG10+ASbB0zmx0="
+  }
+}
